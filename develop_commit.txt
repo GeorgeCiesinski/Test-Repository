@@ -1,0 +1,3 @@
+I modified develop_commit to simulate develop updates.
+
+Modified file again prior to adding feature_c.
